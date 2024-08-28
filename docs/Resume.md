@@ -21,7 +21,7 @@ I am currently pursuing an M.P.S. in Data Science at UMBC, with a solid backgrou
 - **Coursework:** Introduction to Data Science, Data Management, Ethical and Legal Issues in Data Science, Big Data Processing, Introduction to Data Analysis and Machine Learning, Management Leadership and Communication, Artificial Intelligence.
 
 ### B V Raju Institute of Technology, Hyderabad, India
-**Bachelor’s in Electrical and Electronics Engineering** (CGPA: 3.5)  
+**Bachelor’s in Electrical and Electronics Engineering** (CGPA: 3.6)  
 *Aug 2016 – Sep 2020*  
 - **Optional Subjects:** Data Structures through C, JAVA, Computer Networks.
 
