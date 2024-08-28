@@ -105,7 +105,7 @@ I am currently pursuing an M.P.S. in Data Science at UMBC, with a solid backgrou
 
 - **Google Data Analytics Professional Certificate** - May 2023
 - **Python Data structures** - June 2022
-- **DHS Version 5 Trusted Tester Certified** from US Department of Homeland Security - Jan 2021
+- **DHS Version 5 Trusted Tester Certified from US Department of Homeland Security** - Jan 2021
 - **Certified in Robotic Automation Anywhere** - Jan 2020
 
 
