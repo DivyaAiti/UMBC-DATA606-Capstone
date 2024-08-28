@@ -1,10 +1,10 @@
 # Divya Aitipamula
 
-**Email:** divyaaitipamula01@gmail.com  
-**LinkedIn:** [linkedin.com/in/divyaaitipamula](https://www.linkedin.com/in/divyaaitipamula/)
-
 ![Headshot Photo](headshot.jpg)
 
+**Email:** divyaaitipamula01@gmail.com  
+**LinkedIn:** [linkedin.com/in/divyaaitipamula](https://www.linkedin.com/in/divyaaitipamula/)
+**Location:** MD, USA
 ---
 
 ## Summary
