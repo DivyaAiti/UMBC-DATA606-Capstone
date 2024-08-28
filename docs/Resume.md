@@ -9,7 +9,7 @@
 
 ## Summary
 
-I am currently pursuing an M.P.S. in Data Science at UMBC, with a solid background in data analysis, accessibility testing, and software engineering. I have hands-on experience in developing predictive models and improving software usability. Proficient in Python, SQL, Power BI, and various data management tools, I am passionate about leveraging data to deliver impactful solutions.
+I am currently pursuing an M.P.S. in Data Science at UMBC, with a solid background in data analysis, accessibility testing, and software engineering. I have hands-on experience in teaching, developing predictive models, and improving software usability. Proficient in Python, SQL, Power BI, and various data management tools, I am passionate about leveraging data to deliver impactful solutions. Additionally, I have a strong personal interest in teaching and am dedicated to learning about and implementing nutrition science and wellness strategies to enhance overall health and well-being.
 
 ---
 
