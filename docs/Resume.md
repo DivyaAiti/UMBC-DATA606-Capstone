@@ -1,6 +1,6 @@
 # Divya Aitipamula
 
-![Headshot Photo](headshot.jpg) <img src="headshot.jpg" alt="Headshot Photo" width="200"/>
+<img src="headshot.jpg" alt="Headshot Photo" width="200"/>
 
 **Email:** divyaaitipamula01@gmail.com 
 **LinkedIn:** [linkedin.com/in/divyaaitipamula](https://www.linkedin.com/in/divyaaitipamula/)
