@@ -22,7 +22,7 @@ Predicting the severity of road traffic accidents is crucial for several reasons
 - **Insurance and Risk Assessment:** Accurate predictions can assist insurance companies in better-assessing risks, which can lead to fairer premiums and improved customer satisfaction.
 - **Data-Driven Decision Making:** Understanding the factors contributing to accident severity can help in making data-driven decisions to prevent future accidents, ultimately reducing fatalities and injuries.
 
-### Research Questions
+### Research Questions?
 - What are the most significant factors influencing the severity of road traffic accidents?
 - How accurately can machine learning models predict the severity of road traffic accidents?
 - Which combinations of factors (e.g., environmental conditions, vehicle types, driver demographics) are most strongly associated with severe accidents?
@@ -66,7 +66,7 @@ Predicting the severity of road traffic accidents is crucial for several reasons
 
 ---
 
-### Target Variable for the ML Model
+### Target Variable for the ML Model 
 - **`Casualty_Severity`**: This column is the target variable in the machine learning model. It represents the severity of the accident and is categorized into three levels: 1 = Fatal, 2 = Serious and, 3 = Slight.
 
 ### Selected Features/Predictors for the ML Models
