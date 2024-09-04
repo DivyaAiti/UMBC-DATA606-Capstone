@@ -31,16 +31,13 @@ Predicting the severity of road traffic accidents is crucial for several reasons
 
 ## Data
 
-- **Data Sources:**  
-  The dataset used for this project is obtained from the UK Department for Transport's road casualty statistics. It provides detailed information on road traffic accidents and casualties for the year 2022. This publicly available dataset contains various attributes related to accident circumstances, vehicle details, and casualty information.  
+- **Data Sources:** The dataset used for this project is obtained from the UK Department for Transport's road casualty statistics and Kaggle. 
   - [UK Department for Transport](https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-annual-report-2022/reported-road-casualties-great-britain-annual-report-2022)  
   - [Kaggle Dataset](https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022/data)
-
 - **Data Size:** 5MB  
 - **Data Shape:** 60,000 rows and 20 columns.  
 - **Time Period:** The dataset covers road traffic accidents for the year 2022.  
-- **Each Row Represents:**  
-  A single casualty occurrence in a road traffic accident for the year 2022. Each entry corresponds to an individual involved in an accident, including their details, the accident circumstances, and the severity of their injuries.
+- **Each Row Represents:** A single casualty occurrence in a road traffic accident for the year 2022. Each entry corresponds to an individual involved in an accident, including their details, the accident circumstances, and the severity of their injuries.
 
 ### Data Dictionary
 
@@ -70,10 +67,7 @@ Predicting the severity of road traffic accidents is crucial for several reasons
 ---
 
 ### Target Variable for the ML Model
-- **`Casualty_Severity`**: This column is the target variable in the machine learning model. It represents the severity of the accident and is categorized into three levels:
-  - 1 = Fatal
-  - 2 = Serious
-  - 3 = Slight
+- **`Casualty_Severity`**: This column is the target variable in the machine learning model. It represents the severity of the accident and is categorized into three levels: 1 = Fatal, 2 = Serious and, 3 = Slight.
 
 ### Selected Features/Predictors for the ML Models
 The following columns are selected as features (predictors) to train the ML models:
