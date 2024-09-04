@@ -72,19 +72,19 @@ Predicting the severity of road traffic accidents is crucial for several reasons
 ### Selected Features/Predictors for the ML Models
 The following columns are selected as features (predictors) to train the ML models:
 
-1. **`Casualty_Class`**: Class of the casualty (e.g., driver, passenger, pedestrian).
-2. **`Sex_of_Casualty`**: Gender of the casualty.
-3. **`Age_of_Casualty`**: Age of the casualty.
-4. **`Age_Band_of_Casualty`**: Age group of the casualty.
-5. **`Pedestrian_Location`**: Location of the pedestrian during the accident.
-6. **`Pedestrian_Movement`**: Movement of the pedestrian during the accident.
-7. **`Car_Passenger`**: Whether the casualty was a car passenger.
-8. **`Bus_or_Coach_Passenger`**: Whether the casualty was a bus or coach passenger.
-9. **`Pedestrian_Road_Maintenance_Worker`**: Whether the casualty was a road maintenance worker.
-10. **`Casualty_Type`**: Type of casualty.
-11. **`Casualty_Home_Area_Type`**: Home area type of the casualty.
-12. **`Casualty_IMD_Decile`**: IMD decile of the casualty's residence.
-13. **`LSOA_of_Casualty`**: LSOA code associated with the casualty's location.
+- **`Casualty_Class`**: Class of the casualty (e.g., driver, passenger, pedestrian).
+- **`Sex_of_Casualty`**: Gender of the casualty.
+- **`Age_of_Casualty`**: Age of the casualty.
+- **`Age_Band_of_Casualty`**: Age group of the casualty.
+- **`Pedestrian_Location`**: Location of the pedestrian during the accident.
+- **`Pedestrian_Movement`**: Movement of the pedestrian during the accident.
+- **`Car_Passenger`**: Whether the casualty was a car passenger.
+- **`Bus_or_Coach_Passenger`**: Whether the casualty was a bus or coach passenger.
+- **`Pedestrian_Road_Maintenance_Worker`**: Whether the casualty was a road maintenance worker.
+- **`Casualty_Type`**: Type of casualty.
+- **`Casualty_Home_Area_Type`**: Home area type of the casualty.
+- **`Casualty_IMD_Decile`**: IMD decile of the casualty's residence.
+- **`LSOA_of_Casualty`**: LSOA code associated with the casualty's location.
 
 ---
 
