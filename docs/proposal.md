@@ -1,10 +1,9 @@
 
-# Predicting the Severity of Road Traffic Accidents
+# Project Title: Predicting the Severity of Road Traffic Accidents
 
-## Title and Author
-- **Project Title:** Predicting the Severity of Road Traffic Accidents
-- **Prepared for:** UMBC Data Science Master's Degree Capstone by Dr. Chaojie (Jay) Wang
 - **Author Name:** Divya Aitipamula
+- **Semester:** Fall'24
+- **Prepared for:** UMBC Data Science Master's Degree Capstone by Dr. Chaojie (Jay) Wang
 - **GitHub:** [https://github.com/DivyaAiti/UMBC-DATA606-Capstone](https://github.com/DivyaAiti/UMBC-DATA606-Capstone)
 - **LinkedIn profile:** [https://www.linkedin.com/in/divyaaitipamula/](https://www.linkedin.com/in/divyaaitipamula/)
 - **Link to your PowerPoint presentation file:** [Add Link Here]
