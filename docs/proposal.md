@@ -8,7 +8,6 @@
 - **GitHub:** [https://github.com/DivyaAiti/UMBC-DATA606-Capstone](https://github.com/DivyaAiti/UMBC-DATA606-Capstone)
 - **LinkedIn profile:** [https://www.linkedin.com/in/divyaaitipamula/](https://www.linkedin.com/in/divyaaitipamula/)
 - **Link to your PowerPoint presentation file:** [Add Link Here]
-- **Link to your YouTube video:** [Add Link Here]
 
 ---
 
@@ -41,9 +40,6 @@ Predicting the severity of road traffic accidents is crucial for several reasons
 - **Data Size:** 5MB  
 - **Data Shape:** 60,000 rows and 20 columns.  
 - **Time Period:** The dataset covers road traffic accidents for the year 2022.  
-
-This dataset will be used to train and evaluate machine learning models to predict the severity of road traffic accidents and identify the most influential factors contributing to the severity of these incidents.
-
 - **Each Row Represents:**  
   A single casualty occurrence in a road traffic accident for the year 2022. Each entry corresponds to an individual involved in an accident, including their details, the accident circumstances, and the severity of their injuries.
 
