@@ -34,7 +34,7 @@ Predicting the severity of road traffic accidents is crucial for several reasons
   - [UK Department for Transport](https://www.gov.uk/government/statistics/reported-road-casualties-great-britain-annual-report-2022/reported-road-casualties-great-britain-annual-report-2022)  
   - [Kaggle Dataset](https://www.kaggle.com/datasets/juhibhojani/road-accidents-data-2022/data)
 - **Data Size:** 5MB  
-- **Data Shape:** ~60,000 rows and 20 columns.  
+- **Data Shape:** 61352 rows and 20 columns.  
 - **Time Period:** The dataset covers road traffic accidents for the year 2022.  
 - **Each Row Represents:** A single casualty occurrence in a road traffic accident for the year 2022. Each entry corresponds to an individual involved in an accident, including their details, the accident circumstances, and the severity of their injuries.
 
