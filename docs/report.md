@@ -108,19 +108,20 @@ The focus was placed on the target variable, `casualty_severity`, and the select
    A bivariate analysis was conducted to explore the relationship between `casualty_severity` and `age_of_casualty`. A boxplot was used to visualize the connection between accident severity and age. The x-axis represents different severity levels (Fatal, Serious, Slight), while the y-axis shows the ages of individuals involved in the accidents.
    This analysis identified patterns in how age relates to the severity of injuries, highlighting age groups more prone to severe accidents. For example, certain age groups might exhibit higher fatality or serious injury rates, indicating the need for age-specific safety measures.
 
-<img src="Bivariate.jpg" alt="Bivariate" width="600"/>
+![Bivariate](./Bivariate.png)
 
 **Visualizing the Data**:
    A histogram with a Kernel Density Estimate (KDE) curve was created to examine the distribution of `age_of_casualty`. The x-axis represents different age groups involved in accidents, while the y-axis shows the frequency of occurrences.
    This visualization uncovered trends in accident occurrence across various age groups, indicating which age ranges are most commonly affected. The KDE curve provided a smoother view of the distribution, aiding in detecting patterns that might influence model performance.
 
-<img src="Visualizing the Data.jpg" alt="Visualizing the Data" width="600"/>
+![Visualizing the Data](./VisualizingtheData.png)
 
 ### Data Cleansing and Feature Engineering:
 
 During the Data Cleansing and Feature Engineering process, relevant features were selected from the dataset to be used in the analysis, such as accident year, casualty details, pedestrian movement, and so on. Categorical variables, like casualty class and home area type, were transformed into numerical values using Label Encoding to make the data machine-readable. For numerical features, such as age and pedestrian movement, Standard Scaling was applied to normalize the data and ensure consistency in feature scaling. These steps were necessary to prepare the dataset for machine learning models.
 
 ## Conclusion:
+
 EDA provided valuable insights into the dataset through visualizations, data cleansing, and feature engineering. The data is now fully prepared for machine learning modeling, with no missing or duplicated values. The next steps involve training machine learning models, fine-tuning hyperparameters, and evaluating model performance to predict the severity of road traffic accidents accurately.
 
   
