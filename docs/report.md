@@ -102,7 +102,7 @@ The focus was placed on the target variable, `casualty_severity`, and the select
 **Univariate Analysis**:
    The distribution of the target variable, `casualty_severity`, was analyzed to assess the balance of the dataset. Using the `value_counts()` function, occurrences of each severity level—Fatal, Serious, and Slight—were calculated. A bar plot was generated, where the x-axis represents severity levels (1 = Fatal, 2 = Serious, 3 = Slight), and the y-axis shows the frequency of each category.
 
-<img src="Univariate.jpg" alt="Univariate" width="600"/>
+![Univariate](./Univariate.png)
 
 **Bivariate Analysis**:
    A bivariate analysis was conducted to explore the relationship between `casualty_severity` and `age_of_casualty`. A boxplot was used to visualize the connection between accident severity and age. The x-axis represents different severity levels (Fatal, Serious, Slight), while the y-axis shows the ages of individuals involved in the accidents.
