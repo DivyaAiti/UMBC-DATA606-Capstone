@@ -114,7 +114,7 @@ The focus was placed on the target variable, `casualty_severity`, and the select
    A histogram with a Kernel Density Estimate (KDE) curve was created to examine the distribution of `age_of_casualty`. The x-axis represents different age groups involved in accidents, while the y-axis shows the frequency of occurrences.
    This visualization uncovered trends in accident occurrence across various age groups, indicating which age ranges are most commonly affected. The KDE curve provided a smoother view of the distribution, aiding in detecting patterns that might influence model performance.
 
-![Visualizing the Data](./VisualizingtheData.png)
+![VisualizingtheData](./VisualizingtheData.png)
 
 ### Data Cleansing and Feature Engineering:
 
