@@ -101,21 +101,20 @@ The focus was placed on the target variable, `casualty_severity`, and the select
 ### Data Visualization:
 **Univariate Analysis**:
    The distribution of the target variable, `casualty_severity`, was analyzed to assess the balance of the dataset. Using the `value_counts()` function, occurrences of each severity level—Fatal, Serious, and Slight—were calculated. A bar plot was generated, where the x-axis represents severity levels (1 = Fatal, 2 = Serious, 3 = Slight), and the y-axis shows the frequency of each category.
-   This visualization revealed the class distribution, highlighting potential imbalances in the dataset. For instance, if the dataset contains a significantly larger number of "Slight" severity cases, further steps like oversampling or undersampling may be required to ensure balanced model training.
 
-<img src="headshot.jpg" alt="Univariate" width="600"/>
+<img src="Univariate.jpg" alt="Univariate" width="600"/>
 
 **Bivariate Analysis**:
    A bivariate analysis was conducted to explore the relationship between `casualty_severity` and `age_of_casualty`. A boxplot was used to visualize the connection between accident severity and age. The x-axis represents different severity levels (Fatal, Serious, Slight), while the y-axis shows the ages of individuals involved in the accidents.
    This analysis identified patterns in how age relates to the severity of injuries, highlighting age groups more prone to severe accidents. For example, certain age groups might exhibit higher fatality or serious injury rates, indicating the need for age-specific safety measures.
 
-<img src="headshot.jpg" alt="Bivariate" width="600"/>
+<img src="Bivariate.jpg" alt="Bivariate" width="600"/>
 
 **Visualizing the Data**:
    A histogram with a Kernel Density Estimate (KDE) curve was created to examine the distribution of `age_of_casualty`. The x-axis represents different age groups involved in accidents, while the y-axis shows the frequency of occurrences.
    This visualization uncovered trends in accident occurrence across various age groups, indicating which age ranges are most commonly affected. The KDE curve provided a smoother view of the distribution, aiding in detecting patterns that might influence model performance.
 
-<img src="headshot.jpg" alt="Visualizing the Data" width="600"/>
+<img src="Visualizing the Data.jpg" alt="Visualizing the Data" width="600"/>
 
 ### Data Cleansing and Feature Engineering:
 
@@ -125,4 +124,3 @@ During the Data Cleansing and Feature Engineering process, relevant features wer
 EDA provided valuable insights into the dataset through visualizations, data cleansing, and feature engineering. The data is now fully prepared for machine learning modeling, with no missing or duplicated values. The next steps involve training machine learning models, fine-tuning hyperparameters, and evaluating model performance to predict the severity of road traffic accidents accurately.
 
   
-
