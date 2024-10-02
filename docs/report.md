@@ -91,7 +91,7 @@ The following columns are selected as features (predictors) to train the ML mode
 ## Exploratory Data Analysis (EDA)
 
 **Data Cleansing and Preprocessing**
-The focus was placed on the target variable, `casualty_severity`, and the selected features that are relevant for predicting the severity of accidents. All other irrelevant columns were dropped to streamline the analysis. Summary statistics of the key variables were produced to understand the data distribution and to assess key metrics such as central tendencies and spread. These statistics provided insights into the characteristics of the selected features and the overall dataset.
+   The focus was placed on the target variable, `casualty_severity`, and the selected features that are relevant for predicting the severity of accidents. All other irrelevant columns were dropped to streamline the analysis. Summary statistics of the key variables were produced to understand the data distribution and to assess key metrics such as central tendencies and spread. These statistics provided insights into the characteristics of the selected features and the overall dataset.
 
 - **Missing Values**: No missing values were found, ensuring the completeness of the dataset.
 - **Duplicate Rows**: The dataset was checked for duplicate rows, and no duplicates were detected. 
