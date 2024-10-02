@@ -122,6 +122,5 @@ During the Data Cleansing and Feature Engineering process, relevant features wer
 
 ## Conclusion:
 
-EDA provided valuable insights into the dataset through visualizations, data cleansing, and feature engineering. The data is now fully prepared for machine learning modeling, with no missing or duplicated values. The next steps involve training machine learning models, fine-tuning hyperparameters, and evaluating model performance to predict the severity of road traffic accidents accurately.
-
+EDA provided valuable insights into the dataset through visualizations, data cleansing, and feature engineering. The data is now fully prepared for machine learning modeling, with no missing or duplicated values. The next steps involve training machine learning models, fine-tuning hyperparameters, and evaluating model performance to predict the severity of road traffic accidents accurately. Following that, a web application will be developed using Streamlit to allow users to interact with the trained models.
   
