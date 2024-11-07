@@ -187,8 +187,6 @@ Post-tuning, the models demonstrated improved accuracy and generalization, as de
 - **K-Nearest Neighbors (KNN)**: Tuning reduced training accuracy from 81.74% to 80.84% while increasing testing accuracy from 76.68% to 77.82%, indicating improved generalization.
 - **Gradient Boosting**: Displayed consistent performance; training accuracy slightly increased from 79.93% to 80.13%, with testing accuracy remaining steady around 79.79%, demonstrating robustness and stability.
 
-- 
-
 ### Best Model Selection
 Based on post-tuning results, **Logistic Regression** was selected as the best model with a testing accuracy of **79.79%**, providing the most balanced performance across training and testing datasets.
 
