@@ -182,12 +182,15 @@ Post-tuning, the models demonstrated improved accuracy and generalization, as de
 ![Pre-PostTuning](./Pre-PostTuning.png)
 
 ### Observations on Tuning Results
-- **Random Forest**: Post-tuning, testing accuracy improved to **80.20%**, reducing overfitting and enhancing generalization.
-- **Gradient Boosting**: Emerged as the top performer with balanced and high testing accuracy of **80.40%**, showing consistent generalization.
-- **K-Nearest Neighbors** and **Logistic Regression**: Showed moderate accuracy improvements but did not outperform Gradient Boosting.
+- **Random Forest**: Tuning reduced overfitting by lowering training accuracy from 98.71% to 80.28% and slightly improved testing accuracy from 76.93% to 79.69%, enhancing the model's generalization.
+- **Logistic Regression**: Already balanced pre-tuning, tuning led to a small increase in testing accuracy from 79.52% to 79.78%, confirming stable performance and minimal overfitting.
+- **K-Nearest Neighbors (KNN)**: Tuning reduced training accuracy from 81.74% to 80.84% while increasing testing accuracy from 76.68% to 77.82%, indicating improved generalization.
+- **Gradient Boosting**: Displayed consistent performance; training accuracy slightly increased from 79.93% to 80.13%, with testing accuracy remaining steady around 79.77%, demonstrating robustness and stability.
+
+- 
 
 ### Best Model Selection
-Based on post-tuning results, **Gradient Boosting** was selected as the best model with a testing accuracy of **80.40%**, providing the most balanced performance across training and testing datasets.
+Based on post-tuning results, **Logistic Regression** was selected as the best model with a testing accuracy of **79.78%**, providing the most balanced performance across training and testing datasets.
 
 ---
 
@@ -204,7 +207,7 @@ A user-friendly web application was built using **Streamlit** to make the model 
 ## Conclusion
 
 ### Summary of Findings
-The project successfully demonstrated the predictive capabilities of machine learning models in assessing road traffic accident severity. **Gradient Boosting** emerged as the best model, providing actionable insights for emergency response, insurance assessment, and urban planning.
+The project successfully demonstrated the predictive capabilities of machine learning models in assessing road traffic accident severity. **Logistic Regression** emerged as the best model, providing actionable insights for emergency response, insurance assessment, and urban planning.
 
 ### Potential Applications
 1. **Traffic Safety**: Insights from the model can help policymakers implement safety measures in high-risk areas.
