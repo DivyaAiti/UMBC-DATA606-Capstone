@@ -192,9 +192,8 @@ Based on post-tuning results, **Logistic Regression** was selected as the best m
 
 ---
 
-## Application of the Trained Models
+## Web Application Development
 
-### Web Application Development
 A user-friendly web application was built using **Streamlit** to make the model accessible and interactive. Key features include:
 1. **User Input**: Fields for entering accident details, such as casualty class, age, pedestrian location, and other selected features.
 2. **Prediction Output**: After processing the input data, the app displays the predicted accident severity, helping users understand potential risk levels.
