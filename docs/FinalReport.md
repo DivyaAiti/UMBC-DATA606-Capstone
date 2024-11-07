@@ -142,10 +142,10 @@ During the Data Cleansing and Feature Engineering process, relevant features wer
 
 | Model                  | Training Accuracy (%) | Testing Accuracy (%) | Precision (%) | Recall (%) | F1 Score (%) |
 |------------------------|-----------------------|----------------------|---------------|------------|--------------|
-| **Random Forest**      | 98.71                 | 77.29               | 71.00         | 77.29      | 73.00        |
-| **Logistic Regression**| 79.34                 | 79.52               | 69.00         | 80.00      | 71.00        |
-| **K-Nearest Neighbors**| 81.74                 | 76.67               | 70.00         | 77.00      | 72.00        |
-| **Gradient Boosting**  | 79.92                 | 79.83               | 73.00         | 80.00      | 73.00        |
+| **Random Forest**      | 98.71                 | 77.00               | 71.00         | 77.00      | 73.00        |
+| **Logistic Regression**| 79.34                 | 80.00               | 69.00         | 80.00      | 71.00        |
+| **K-Nearest Neighbors**| 81.74                 | 77.00               | 70.00         | 77.00      | 72.00        |
+| **Gradient Boosting**  | 79.92                 | 80.00               | 73.00         | 80.00      | 73.00        |
 
 ![ModelPerfomanceComparison](./ModelPerfomanceComparison.png)
 
@@ -198,6 +198,7 @@ A user-friendly web application was built using **Streamlit** to make the model 
 1. **User Input**: Fields for entering accident details, such as casualty class, age, pedestrian location, and other selected features.
 2. **Prediction Output**: After processing the input data, the app displays the predicted accident severity, helping users understand potential risk levels.
 
+![Streamlit](./Streamlit.png)
 ---
 
 ## Conclusion
