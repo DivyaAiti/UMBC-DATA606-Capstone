@@ -184,7 +184,7 @@ Post-tuning, the models demonstrated improved accuracy and generalization, as de
 ### Observations on Tuning Results
 - **Random Forest**: Tuning reduced overfitting by lowering training accuracy from 98.71% to 80.28% and slightly improved testing accuracy from 76.93% to 79.69%, enhancing the model's generalization.
 - **Logistic Regression**: Already balanced pre-tuning, tuning led to a small increase in testing accuracy from 79.52% to 79.78%, confirming stable performance and minimal overfitting.
-- **K-Nearest Neighbors (KNN)**: Tuning reduced training accuracy from 81.74% to 80.84% while increasing testing accuracy from 76.68% to 77.82%, indicating improved generalization.
+- **K-Nearest Neighbors (KNN)**: Tuning reduced training accuracy from 81.74% to 80.84% while increasing testing accuracy from 76.68% to 78.96%, indicating improved generalization.
 - **Gradient Boosting**: Displayed consistent performance; training accuracy slightly increased from 79.93% to 80.13%, with testing accuracy remaining steady around 79.79%, demonstrating robustness and stability.
 
 ### Best Model Selection
