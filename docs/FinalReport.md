@@ -4,8 +4,8 @@
 - **Author Name:** Divya Aitipamula
 - **Semester:** Fall'24
 - **Prepared for:** UMBC Data Science Master's Degree Capstone by Dr. Chaojie (Jay) Wang
-- **Github:** [[https://github.com/DivyaAiti/UMBC-DATA606-Capstone](https://github.com/DivyaAiti/UMBC-DATA606-Capstone])
-- **LinkedIn:** [[https://www.linkedin.com/in/divyaaitipamula/](https://www.linkedin.com/in/divyaaitipamula/])**
+- **Github:** [https://github.com/DivyaAiti/UMBC-DATA606-Capstone](https://github.com/DivyaAiti/UMBC-DATA606-Capstone])
+- **LinkedIn:** [https://www.linkedin.com/in/divyaaitipamula/](https://www.linkedin.com/in/divyaaitipamula/])
 - **PowerPoint Presentation:** [Link](https://github.com/DivyaAiti/UMBC-DATA606-Capstone/blob/main/docs/Final%20Project.pptx)
 - **Youtube:** [Link]
 
