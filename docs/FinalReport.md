@@ -7,7 +7,8 @@
 - **Github:** [https://github.com/DivyaAiti/UMBC-DATA606-Capstone](https://github.com/DivyaAiti/UMBC-DATA606-Capstone])
 - **LinkedIn:** [https://www.linkedin.com/in/divyaaitipamula/](https://www.linkedin.com/in/divyaaitipamula/])
 - **PowerPoint Presentation:** [Link](https://github.com/DivyaAiti/UMBC-DATA606-Capstone/blob/main/docs/Final%20Project.pptx)
-- **Youtube:** [Link]
+- **Youtube:** [Link](https://www.youtube.com/watch?v=KoFg9nBqzuU&ab_channel=DivyaAitipamula)
+- **Streamlit:** [Link](https://share.streamlit.io/)
 
 ---
 
